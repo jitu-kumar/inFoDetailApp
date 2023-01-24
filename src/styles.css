@@ -1,0 +1,49 @@
+body {
+  background-color: #f4f7fc;
+  padding: 0.3rem;
+}
+
+.container {
+  margin-top: 15px;
+  border-radius: 15px;
+  width: 92%;
+  height: 400px;
+  background-color: #fff;
+}
+
+.card {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+button {
+  background-color: #ff6464;
+  margin-top: 20px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  height: 30px;
+  width: 100px;
+}
+
+h3 {
+  font-weight: bolder !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: calc(0.8rem + 0.3vw);
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+}
+
+span {
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+  color: gray;
+}
